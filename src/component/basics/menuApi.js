@@ -117,6 +117,72 @@ const Menu = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
+  {
+    id: 14,
+    image: "../images/fixthali.jpg",
+    name: "veg. Fix Thali",
+    category: "lunch",
+    price: "300₹",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
+  {
+    id: 15,
+    image: "../images/pasta.jpg",
+    name: "Delicious Pasta",
+    category: "breakfast",
+    price: "150₹",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
+  {
+    id: 16,
+    image: "../images/manchurian.jfif",
+    name: "Manchurian Noodles",
+    category: "lunch",
+    price: "100₹",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
+  {
+    id: 17,
+    image: "../images/chinese.jpg",
+    name: "veg. Fix Chinese Thali",
+    category: "dinner",
+    price: "280₹",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
+  {
+    id: 18,
+    image: "../images/poha.jpg",
+    name: "Poha dish",
+    category: "breakfast",
+    price: "50₹",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
+  {
+    id: 19,
+    image: "../images/oats.jpg",
+    name: "healthy oats",
+    category: "breakfast",
+    price: "99₹",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
+
+  {
+    id: 20,
+    image: "../images/beans.jpg",
+    name: "Mix Beans",
+    category: "breakfast",
+    price: "280₹",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
+
+
 ];
 
 export default Menu;
