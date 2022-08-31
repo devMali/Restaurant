@@ -138,6 +138,12 @@
   max-width: 80px;
   max-height: 80px;
 }
+.price
+{
+  color:green;
+  font-size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 .card-shadow {
   background-color: #fff;
   box-shadow: 0 2px 25px 2px rgba(0, 0, 0, 1), 0 2px 50px 2px rgba(0, 0, 0, 1),
