@@ -5,9 +5,8 @@
   font-family: "Lato", sans-serif;
 }
 
-html {
-  background: #faf7f2;
-  background-image: url(https://s3.postimg.org/s1n3ji1ur/paper_fibers_2_X.png);
+.bg{
+  background: #f0e3ee;
   box-sizing: border-box;
   font-family: "Lato", sans-serif;
   font-size: 14px;
@@ -46,7 +45,7 @@ html {
 }
 
 .card {
-  background-color: #fff;
+  background-color: rgb(250, 250, 250);
   padding: 30px;
   position: relative;
   box-shadow: 0 0 5px rgba(75, 75, 75, 0.07);
@@ -82,7 +81,7 @@ html {
 
 .card-title {
   font-family: "Cormorant Garamond", serif;
-  font-size: 60px;
+  font-size: 50px;
   font-weight: 300;
   line-height: 60px;
   margin: 10px 0;
@@ -90,7 +89,7 @@ html {
 }
 
 .card-description {
-  /* display: inline-block; */
+  display: inline-block;
   font-weight: 300;
   line-height: 22px;
   margin: 10px 0;
@@ -134,7 +133,11 @@ html {
   max-width: 100%;
   height: auto;
 }
-
+.myimg
+{
+  max-width: 80px;
+  max-height: 80px;
+}
 .card-shadow {
   background-color: #fff;
   box-shadow: 0 2px 25px 2px rgba(0, 0, 0, 1), 0 2px 50px 2px rgba(0, 0, 0, 1),
@@ -152,14 +155,26 @@ html {
     grid-gap: 50px;
     justify-content: space-around;
   }
+  .myimg
+{
+  max-width: 50px;
+  max-height: 50px;
 }
 
+ 
+
+}
+h1
+{
+  text-align: center;
+  margin-top: 20px;
+  color:purple;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 50px;
+  align-self: center;
+}
 /* ---------- Button styles ------------------ */
 
-.navbar {
-  padding-top: 50px;
-  text-align: center;
-}
 
 .navbar h1 {
   padding-bottom: 20px;
@@ -167,6 +182,7 @@ html {
 }
 
 /** button group styles **/
+
 .btn-group {
   border-radius: 1rem;
   text-transform: capitalize;
@@ -193,7 +209,7 @@ html {
 }
 .btn-group__item:hover,
 .btn-group__item:focus {
-  color: rebeccapurple;
+  color: red;
   box-shadow: inset 0px -20px 0px -15px rebeccapurple;
 }
 .btn-group__item:focus {
