@@ -6,18 +6,21 @@ const MenuCard = ({menuData}) => {
     <>
     <section className='main-card--cointainer'>
     {menuData.map((curr) =>{
+
+            const {id,category,name,description,image} = curr;   //DESTRUCTURE
+
         return(
             <>
             <div className='card-container'>
             <div className='card'>
                 <div className='card-body'>
-                <span className='card-number card-circle sublet'>{curr.id}</span>
-                <span className='card-author sublet'>{curr.category}</span>
-                <span className='card-title'>{curr.name}</span>
-                <span className='card-description sublet'>{curr.description}</span>
+                <span className='card-number card-circle sublet'>{id}</span>
+                <span className='card-author sublet'>{category}</span>
+                <span className='card-title'>{name}</span>
+                <span className='card-description sublet'>{description}</span>
                 <div className='card-read'>Read</div>
                 </div>
-                <img src={curr.image} alt="image" className='card-media' />
+                <img src={image} alt="" className='card-media' />
                 <span className='card-tag sublet'  >Order Now</span>
             </div>
        </div>
