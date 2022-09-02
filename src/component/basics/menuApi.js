@@ -29,7 +29,7 @@ const Menu = [
   },
   {
     id: 4,
-    image: "../images/chola.jpg",
+    image: "images/chola.jpg",
     name: "chole",
     category: "lunch",
     price: "50₹",
@@ -38,7 +38,7 @@ const Menu = [
   },
   {
     id: 5,
-    image: "../images/pizza.jpg",
+    image: "images/pizza.jpg",
     name: "pizza",
     category: "evening",
     price: "80₹",
@@ -47,7 +47,7 @@ const Menu = [
   },
   {
     id: 6,
-    image: "../images/dosa.jpg",
+    image: "images/dosa.jpg",
     name: "Masala Dosa",
     category: "dinner",
     price: "180₹",
@@ -56,7 +56,7 @@ const Menu = [
   },
   {
     id: 7,
-    image: "../images/sweet.jpg",
+    image: "images/sweet.jpg",
     name: "Sweets",
     category: "dinner",
     price: "60₹",
@@ -65,7 +65,7 @@ const Menu = [
   },
   {
     id: 8,
-    image: "../images/rajmarice.jpg",
+    image: "images/rajmarice.jpg",
     name: "Rajma Rice",
     category: "lunch",
     price: "60₹",
@@ -74,7 +74,7 @@ const Menu = [
   },
   {
     id: 9,
-    image: "../images/samosa.jpg",
+    image: "images/samosa.jpg",
     name: "samosa",
     category: "evening",
     price: "20₹",
@@ -83,7 +83,7 @@ const Menu = [
   },
   {
     id: 10,
-    image: "../images/momo.jpg",
+    image: "images/momo.jpg",
     name: "Momos",
     category: "evening",
     price: "40₹",
@@ -92,7 +92,7 @@ const Menu = [
   },
   {
     id: 11,
-    image: "../images/pavbhaji.jpg",
+    image: "images/pavbhaji.jpg",
     name: "pav bhaji",
     category: "dinner",
     price: "100₹",
@@ -101,7 +101,7 @@ const Menu = [
   },
   {
     id: 12,
-    image: "../images/popcorn.jpg",
+    image: "images/popcorn.jpg",
     name: "popcorn",
     category: "evening",
     price: "30₹",
@@ -110,7 +110,7 @@ const Menu = [
   },
   {
     id: 13,
-    image: "../images/vegthali.jpg",
+    image: "images/vegthali.jpg",
     name: "veg. Fix Thali",
     category: "dinner",
     price: "280₹",
@@ -119,7 +119,7 @@ const Menu = [
   },
   {
     id: 14,
-    image: "../images/fixthali.jpg",
+    image: "images/fixthali.jpg",
     name: "veg. Fix Thali",
     category: "lunch",
     price: "300₹",
@@ -128,7 +128,7 @@ const Menu = [
   },
   {
     id: 15,
-    image: "../images/pasta.jpg",
+    image: "images/pasta.jpg",
     name: "Delicious Pasta",
     category: "breakfast",
     price: "150₹",
@@ -137,7 +137,7 @@ const Menu = [
   },
   {
     id: 16,
-    image: "../images/manchurian.jfif",
+    image: "images/manchurian.jpg",
     name: "Manchurian Noodles",
     category: "lunch",
     price: "100₹",
@@ -146,7 +146,7 @@ const Menu = [
   },
   {
     id: 17,
-    image: "../images/chinese.jpg",
+    image: "images/chinese.jpg",
     name: "veg. Fix Chinese Thali",
     category: "dinner",
     price: "280₹",
@@ -155,7 +155,7 @@ const Menu = [
   },
   {
     id: 18,
-    image: "../images/poha.jpg",
+    image: "images/poha.jpg",
     name: "Poha dish",
     category: "breakfast",
     price: "50₹",
@@ -164,7 +164,7 @@ const Menu = [
   },
   {
     id: 19,
-    image: "../images/oats.jpg",
+    image: "images/oats.jpg",
     name: "healthy oats",
     category: "breakfast",
     price: "99₹",
@@ -174,7 +174,7 @@ const Menu = [
 
   {
     id: 20,
-    image: "../images/beans.jpg",
+    image: "images/beans.jpg",
     name: "Mix Beans",
     category: "breakfast",
     price: "70₹",
